@@ -10,10 +10,8 @@ Kanban work methodology is used widely in many companies. It is often related to
 The Kanban Board enables to:
 
 * Create tasks with a detailed description;
-* Assign a person to the task;
 * Move defined tasks between columns with defined limits;
 * Save tasks to Local Storage so you don't miss them when you close your app;
-* Clear tasks from the Local Storage.
 
 ###  SOLUTIONS APPLIED IN THE PROJECT
 
