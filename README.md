@@ -2,7 +2,8 @@
 
 ### :shell: PROJECT IN A NUTSHELL
 
-Kanban work methodology is used widely in many companies. It is often related to when Agile is not efficient or impossible to introduce. You can read more about Kanban [here](https://www.atlassian.com/agile/kanban).
+Kanban work methodology is used widely in many companies. It is often related to when Agile is not efficient or impossible to introduce. You can read more about Kanban 
+[here](https://www.atlassian.com/agile/kanban).
 
 ### :unlock: FEATURES 
 
@@ -17,7 +18,8 @@ The Kanban Board enables to:
 ###  SOLUTIONS APPLIED IN THE PROJECT
 
 * React Hooks and Context API
-* LocalStorage -> I created my custom hook called useStorage to handle data saving. Data is uploaded from localStorage as soon as the Kanban Board is mounted. Tasks are saved when the explorer tab is going to be closed.
+* LocalStorage -> I created my custom hook called useStorage to handle data saving. Data is uploaded from localStorage as soon as the Kanban Board is mounted. Tasks are 
+saved when the explorer tab is going to be closed.
 * UI desined in a minimalistic way
 
 ###  SOLUTIONS I STILL WANT TO ADD 
@@ -49,5 +51,22 @@ Thanks to my Mentor - [devmentor.pl](https://devmentor.pl/) - for providing me w
 
 If you have any questions feel free to get in touch with me (contact in the profile [readme](https://github.com/magdanolde)).
 
-A tool which helps to manage tasks according to kanban work methodology 📋 👫
-A tool which helps to manage tasks according to kanban work methodology :clipboard: :couple:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
